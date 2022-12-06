@@ -34,7 +34,7 @@
 
   &__buttons-wrapper {
     display: flex;
-    gap: 10px;
+    gap: 12px;
     Link,
     a {
       cursor: pointer;
@@ -73,7 +73,7 @@
 @media only screen and (min-width: 551px) and (max-width: 768px) {
   .home__text__wrapper h1 {
     font-size: 4rem;
-    line-height: 6rem;
+    line-height: 5rem;
   }
 }
 
