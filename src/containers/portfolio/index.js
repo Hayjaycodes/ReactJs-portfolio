@@ -33,7 +33,7 @@ const Portfolio = () => {
               <li
                 onClick={() => handleFilter(option.id)}
                 key={`filter${option.id}`}
-                className={option.id ===filterValue ? 'active' : ""}
+                className={option.id === filterValue ? "active" : ""}
               >
                 {option.label}
               </li>
@@ -49,8 +49,7 @@ const Portfolio = () => {
                 className="portfolio__content__cards__item"
               >
                 <div className="portfolio__content__cards__item__img-wrapper">
-                  <a href="#Link"> 
-                    
+                  <a href="#Link">
                     <img src={item.pix} alt="project" />
                   </a>
                 </div>
@@ -61,7 +60,9 @@ const Portfolio = () => {
                       <p>
                         {item.projectName} <br />
                         {/* <button>Visit</button> */}
-                        <a href={item.projectLink}>Visit</a>
+                        <a href={item.projectLink} target="#blank">
+                          Visit
+                        </a>
                       </p>
                     </div>
                   )}

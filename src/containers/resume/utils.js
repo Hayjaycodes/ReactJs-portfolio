@@ -18,11 +18,18 @@ export const data = {
       title: "Operational Manager,",
       subTitle: " Egbeda,Lag",
       description: "Supervisor",
-      date: "2021 - present",
+      date: "2021 - 2023",
     },
   ],
 
   education: [
+    {
+      title: "Student,",
+      subTitle: "Coventry University, United Kingdom",
+      description: "Masters in Computer Science",
+      date: "May,2023 - May, 2024 ",
+    },
+
     {
       title: "Student,",
       subTitle: "TechStudio Academy",
