@@ -6,7 +6,7 @@ import { BsWhatsapp } from "react-icons/bs";
 import { Animate } from "react-simple-animate";
 import "./style.scss";
 import { Link } from "react-router-dom";
-import myResume from "../../MyResume/Resume.pdf";
+import myResume from "../../MyResume/ABODUNRIN JOSHUA TANIMOLA.pdf";
 
 const Home = () => {
   return (

@@ -28,13 +28,15 @@ const About = () => {
             <h3 className="developerContent">Front end developer</h3>
 
             <p>
-              My name is Abodunrin Joshua Tanimola,I'm a graduate of Computer Science with Second Class Upper,I'm a front end developer
-              dedicated in producing a responsive website. I have a year
+              My name is Abodunrin Joshua Tanimola,I'm a graduate of Computer
+              Science from Coventry University,I'm a full stack developer
+              dedicated in producing a responsive website. I have two years
               experience in web develepment,Prior to my current role, I worked
               on personal projects over the year. In the next 10 years, I'd like
-              to move into a Senior developer. An Internship position
-              would let me gain more experience
-              with time management, project management and leadership.
+              to move into a Senior developer. A software developer position in
+              your prestige organisation would let me gain more experience with
+              time management, project management, fast learning and leadership
+              skills.
             </p>
           </Animate>
 
